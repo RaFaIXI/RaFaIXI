@@ -1,18 +1,15 @@
 # Rafael Sole Violan Thomas
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+42+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Fan de Star Wars+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+SupInfo+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Fan d'informatique et de code+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 
   <p>
-    <a href="https://www.linkedin.com/in/loth-valentin-50378a231/">
+    <a href="https://www.linkedin.com/in/rafael-sole-violan-thomas"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://vloth.tech">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=El-cmd&color=brightgreen&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=RaFaIXI&color=brightgreen&style=flat-square" alt="Profile views"/>
 </div>
 
 ## 📋 À Propos
