@@ -1,4 +1,4 @@
-# Valentin Loth
+# Rafael Sole Violan Thomas
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+42+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Fan de Star Wars+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
@@ -16,35 +16,9 @@
 </div>
 
 ## 📋 À Propos
-Développeur passionné, actuellement étudiant à l'École 42. Je me spécialise dans le développement système et la programmation bas niveau, avec une forte expertise en C et C++. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
+Développeur passionné, actuellement étudiant à l'SupInfo Lyon. Je me spécialise dans le développement d'applications et le développement web fullstack, avec une forte expertise en C#, en Javascript et Python. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
 
-## 👨‍🏫 Services de Mentorat
-Je propose des services de mentorat personnalisé pour les candidats souhaitant réussir la Piscine de 42 :
-- Cours particuliers en langage C
-- Formation approfondie en Shell
-- Sessions disponibles en visioconférence ou en présentiel
-- Accompagnement adapté à votre niveau et vos objectifs
 
-Pour plus d'informations ou pour réserver une session, contactez-moi sur [LinkedIn](https://www.linkedin.com/in/loth-valentin-50378a231/).
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-cmd&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 🎓 Parcours à 42
-
-### Projets Complétés avec Excellence
-<div align="center">
-
-| Projet | Note | Projet | Note | Projet | Note |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**`Libft`**](https://github.com/El-cmd/libft) | ![](https://img.shields.io/badge/115%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Get_next_line`**](https://github.com/El-cmd/get_next_line) | ![](https://img.shields.io/badge/125%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Ft_printf`**](https://github.com/El-cmd/ft_printf) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) |
-| [**`Born2beroot`**](https://github.com/El-cmd/Born2beroot) | ![](https://img.shields.io/badge/125%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Pipex`**](https://github.com/El-cmd/Pipex) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Push_swap`**](https://github.com/El-cmd/Push_Swap-2.0) | ![](https://img.shields.io/badge/101%2F100-success?style=flat-square&logo=42&logoColor=white) |
-| [**`So_long`**](https://github.com/El-cmd/So_long) | ![](https://img.shields.io/badge/115%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Philosophers`**](https://github.com/El-cmd/Philosopher) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`MiniShell`**](https://github.com/El-cmd/My_MiniShell) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) |
-| [**`NetPractice`**](https://github.com/El-cmd/NetPractice) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Cub3D`**](https://github.com/El-cmd/Cub3D) | ![](https://img.shields.io/badge/115%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`ft_irc`**](https://github.com/El-cmd/ft_irc) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) |
-| [**`Inception`**](https://github.com/El-cmd/Inception) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`CPP 00-03`**](https://github.com/El-cmd/PiscineCPP) | ![](https://img.shields.io/badge/80%2F100-success?style=flat-square&logo=cplusplus&logoColor=white) | [**`CPP 04-09`**](https://github.com/El-cmd/PiscineCPP) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=cplusplus&logoColor=white) |
-
-</div>
 
 ## 💻 Compétences Techniques
 
@@ -71,11 +45,11 @@ Pour plus d'informations ou pour réserver une session, contactez-moi sur [Linke
 </div>
 
 ## 📫 Contact
-Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/loth-valentin-50378a231/).
+Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via mail **rafaelthomas1711@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/rafael-sole-violan-thomas).
 
 ## 🌟 Points Forts
-- Expertise en programmation système et bas niveau
+- Expertise en programmation web et d'applications
 - Excellente maîtrise des concepts algorithmiques
 - Fort esprit d'analyse et de résolution de problèmes
 - Capacité à travailler en autonomie et en équipe
-- Passion pour l'apprentissage continu
+- Curieux et passioné par l'apprentissage de l'art informatique
