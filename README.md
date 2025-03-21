@@ -117,3 +117,14 @@ Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me c
 - Fort esprit d'analyse et de résolution de problèmes qui me permet de m'adapter rapidement à différentes situations
 - Capacité à travailler en autonomie et en équipe
 - Curieux et passioné par l'apprentissage de l'art informatique
+
+
+
+
+
+## 🌟 Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
