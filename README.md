@@ -1,23 +1,81 @@
-<h1 align="center">Hi 👋, I'm Rafael Sole Violan Thomas</h1>
-<h3 align="center">A passionate fullstack and software developer from France</h3>
+# Valentin Loth
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaixi&label=Profile%20views&color=0e75b6&style=flat" alt="rafaixi" /> </p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+42+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Fan de Star Wars+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaixi" alt="rafaixi" /></a> </p>
+  <p>
+    <a href="https://www.linkedin.com/in/loth-valentin-50378a231/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://vloth.tech">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **C++, NoSQL**
+  <img src="https://komarev.com/ghpvc/?username=El-cmd&color=brightgreen&style=flat-square" alt="Profile views"/>
+</div>
 
-- 📫 How to reach me **rafaelthomas1711@gmail.com**
+## 📋 À Propos
+Développeur passionné, actuellement étudiant à l'École 42. Je me spécialise dans le développement système et la programmation bas niveau, avec une forte expertise en C et C++. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 👨‍🏫 Services de Mentorat
+Je propose des services de mentorat personnalisé pour les candidats souhaitant réussir la Piscine de 42 :
+- Cours particuliers en langage C
+- Formation approfondie en Shell
+- Sessions disponibles en visioconférence ou en présentiel
+- Accompagnement adapté à votre niveau et vos objectifs
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Pour plus d'informations ou pour réserver une session, contactez-moi sur [LinkedIn](https://www.linkedin.com/in/loth-valentin-50378a231/).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaixi&show_icons=true&locale=en&layout=compact" alt="rafaixi" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-cmd&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaixi&show_icons=true&locale=en" alt="rafaixi" /></p>
+## 🎓 Parcours à 42
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaixi&" alt="rafaixi" /></p>
+### Projets Complétés avec Excellence
+<div align="center">
+
+| Projet | Note | Projet | Note | Projet | Note |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [**`Libft`**](https://github.com/El-cmd/libft) | ![](https://img.shields.io/badge/115%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Get_next_line`**](https://github.com/El-cmd/get_next_line) | ![](https://img.shields.io/badge/125%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Ft_printf`**](https://github.com/El-cmd/ft_printf) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) |
+| [**`Born2beroot`**](https://github.com/El-cmd/Born2beroot) | ![](https://img.shields.io/badge/125%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Pipex`**](https://github.com/El-cmd/Pipex) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Push_swap`**](https://github.com/El-cmd/Push_Swap-2.0) | ![](https://img.shields.io/badge/101%2F100-success?style=flat-square&logo=42&logoColor=white) |
+| [**`So_long`**](https://github.com/El-cmd/So_long) | ![](https://img.shields.io/badge/115%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Philosophers`**](https://github.com/El-cmd/Philosopher) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`MiniShell`**](https://github.com/El-cmd/My_MiniShell) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) |
+| [**`NetPractice`**](https://github.com/El-cmd/NetPractice) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`Cub3D`**](https://github.com/El-cmd/Cub3D) | ![](https://img.shields.io/badge/115%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`ft_irc`**](https://github.com/El-cmd/ft_irc) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) |
+| [**`Inception`**](https://github.com/El-cmd/Inception) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=42&logoColor=white) | [**`CPP 00-03`**](https://github.com/El-cmd/PiscineCPP) | ![](https://img.shields.io/badge/80%2F100-success?style=flat-square&logo=cplusplus&logoColor=white) | [**`CPP 04-09`**](https://github.com/El-cmd/PiscineCPP) | ![](https://img.shields.io/badge/100%2F100-success?style=flat-square&logo=cplusplus&logoColor=white) |
+
+</div>
+
+## 💻 Compétences Techniques
+
+### Langages et Technologies
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://fr.wikipedia.org/wiki/C_(langage))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://fr.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Shell](https://img.shields.io/badge/Shell-5391FE?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://fr.wikipedia.org/wiki/Bash_(interpr%C3%A9teur_de_commandes))
+[![WebSocket](https://img.shields.io/badge/WebSocket-4A4A4A?style=for-the-badge&logo=socket.io&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/API/WebSocket)
+
+### Environnements et Outils
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![DevOps](https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=devops&logoColor=white)](https://fr.wikipedia.org/wiki/DevOps)
+[![Debian](https://img.shields.io/badge/Debian-A80030?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![VM](https://img.shields.io/badge/Machines%20virtuelles-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://fr.wordpress.org/)
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=El-cmd&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 📫 Contact
+Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/loth-valentin-50378a231/).
+
+## 🌟 Points Forts
+- Expertise en programmation système et bas niveau
+- Excellente maîtrise des concepts algorithmiques
+- Fort esprit d'analyse et de résolution de problèmes
+- Capacité à travailler en autonomie et en équipe
+- Passion pour l'apprentissage continu
