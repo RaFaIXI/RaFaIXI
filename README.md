@@ -8,11 +8,18 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
-
   <img src="https://komarev.com/ghpvc/?username=RaFaIXI&color=brightgreen&style=flat-square" alt="Profile views"/>
+  <!-- GitHub followers badge -->
+  <a href="https://github.com/dogaaydinn">
+    <img src="https://img.shields.io/github/followers/RaFaIXI?label=Follow&style=social" alt="GitHub followers">
+  </a>
 </div>
+
+</div>
+
 <br>
 <h2 align="center">📋 À Propos</h2>
+
 <p align="center">
   Développeur passionné, actuellement étudiant à SupInfo Lyon. Je me spécialise dans le développement d'applications et le développement web fullstack, avec une forte expertise en C#, en Javascript et Python. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
 </p>
