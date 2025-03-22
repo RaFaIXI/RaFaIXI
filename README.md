@@ -10,7 +10,7 @@
   </p>
   <img src="https://komarev.com/ghpvc/?username=RaFaIXI&color=brightgreen&style=flat-square" alt="Profile views"/>
   <!-- GitHub followers badge -->
-  <a href="https://github.com/dogaaydinn">
+  <a href="https://github.com/RaFaIXI">
     <img src="https://img.shields.io/github/followers/RaFaIXI?label=Follow&style=social" alt="GitHub followers">
   </a>
 </div>
