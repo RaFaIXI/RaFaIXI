@@ -11,14 +11,21 @@
 
   <img src="https://komarev.com/ghpvc/?username=RaFaIXI&color=brightgreen&style=flat-square" alt="Profile views"/>
 </div>
+<br>
+<h2 align="center">📋 À Propos</h2>
+<p align="center">
+  Développeur passionné, actuellement étudiant à SupInfo Lyon. Je me spécialise dans le développement d'applications et le développement web fullstack, avec une forte expertise en C#, en Javascript et Python. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
+</p>
+<hr>
+<br>
 
-## 📋 À Propos
-Développeur passionné, actuellement étudiant à l'SupInfo Lyon. Je me spécialise dans le développement d'applications et le développement web fullstack, avec une forte expertise en C#, en Javascript et Python. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
 
 
+<h2 align="center">💻 Compétences Techniques</h2>
 
-## 💻 Compétences Techniques
+ 
 ### Langages de Programmation et de Balisage
+
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://fr.wikipedia.org/wiki/C_Sharp)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -93,8 +100,15 @@ Développeur passionné, actuellement étudiant à l'SupInfo Lyon. Je me spécia
 bouton
 <p align="left"> <a text-decoration: none; href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
 -->
+
+<!-- mes tr
 <div align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=RaFaIXI&rank=S,AAA,AA,A&theme=darkhub&no-frame=true&column=7" alt="S and A Rank Trophies"/>
+</div>
+-->
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=darkhub&column=6&rank=-?,-C,-B" alt="S and A Rank Trophies"/>
 </div>
 
 ## 📫 Contact
@@ -127,3 +141,14 @@ Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me c
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaFaIXI/RaFaIXI/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaFaIXI/RaFaIXI/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+<!--
+## 📦 Repositories
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
+&nbsp; &nbsp;
+-->
+
+<img align="right" alt="GIF" src="https://github.com/swannwlme/swannwlme/blob/main/assets/Bottom.svg?raw=true" width="100%"/>
