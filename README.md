@@ -22,7 +22,9 @@
 
 <p align="center">
   Développeur passionné, actuellement étudiant à SupInfo Lyon. Je me spécialise dans le développement d'applications et le développement web fullstack, avec une forte expertise en C#, en Javascript et Python. Mon parcours académique reflète mon engagement envers l'excellence technique et ma capacité à relever des défis complexes.
-</p>
+ <br><a href="https://rafaixi.github.io/Portfolio/" target="_blank">Portfolio</a></p>
+                         
+
 <hr>
 <br>
 
