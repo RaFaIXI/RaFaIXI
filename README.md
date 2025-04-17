@@ -1,7 +1,7 @@
 # Rafael Sole Violan Thomas
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+SupInfo+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Fan d'informatique et de code+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=00F716&width=435&lines=Fan+d'informatique+et+de+code+%F0%9F%AA%90;Passion%C3%A9+de+jeux+vid%C3%A9o+%F0%9F%8E%AE;%C3%89tudiant+SupInfo+%F0%9F%8E%93" alt="Typing SVG" /></a>
 
   <p>
     <a href="https://www.linkedin.com/in/rafael-sole-violan-thomas"> 
