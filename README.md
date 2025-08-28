@@ -114,12 +114,12 @@ bouton
 <div align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=RaFaIXI&rank=S,AAA,AA,A&theme=darkhub&no-frame=true&column=7" alt="S and A Rank Trophies"/>
 </div>
--->
+
 
 <div align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=arasgungore&no-frame=true&no-bg=true&theme=darkhub&column=6&rank=-?,-C,-B" alt="S and A Rank Trophies"/>
 </div>
-
+-->
 ## 📫 Contact
 Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via mail **rafaelthomas1711@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/rafael-sole-violan-thomas).
 
