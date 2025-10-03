@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=00F716&width=435&lines=Fan+d'informatique+et+de+code+%F0%9F%AA%90;Passion%C3%A9+de+jeux+vid%C3%A9o+%F0%9F%8E%AE;%C3%89tudiant+SupInfo+%F0%9F%8E%93" alt="Typing SVG" /></a>
 
   <p>
-    <a href="https://www.linkedin.com/in/rafael-sole-violan-thomas"> 
+    <a href="www.linkedin.com/in/rafael-soleviolanthomas"> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
