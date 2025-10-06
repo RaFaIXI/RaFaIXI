@@ -121,7 +121,7 @@ bouton
 </div>
 -->
 ## 📫 Contact
-Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via mail **rafaelthomas1711@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/rafael-sole-violan-thomas).
+Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via mail **rafaelthomas1711@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/rafael-soleviolanthomas/).
 
 
 <h3 align="left">Connect with me:</h3>
