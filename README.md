@@ -123,10 +123,7 @@ bouton
 ## 📫 Contact
 Pour toute opportunité professionnelle ou collaboration, n'hésitez pas à me contacter via mail **soleviolanthomas.rafael@gmail.com** ou [LinkedIn](https://www.linkedin.com/in/rafael-soleviolanthomas/).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rafael-sole-violan-thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerbaud fabrice" height="30" width="40" /></a>
-</p>
+
 
 
 
